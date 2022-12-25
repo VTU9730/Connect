@@ -21,6 +21,7 @@ shop.save(function(){
 // .then((response)=>response.json())
 // .then((data)=>console.log(data))}
 // Fetching();
+//hello
 app.get('/',function(req,res){  
     res.send('<h1>Hello World</h1>')
     shop.save(function(){
